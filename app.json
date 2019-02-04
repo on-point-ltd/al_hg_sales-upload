@@ -1,0 +1,24 @@
+{
+  "id": "e3c91349-00ab-47d9-a89c-ac63365e6eb8",
+  "name": "Sales Upload File",
+  "publisher": "OnPointServ.com",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 71900,
+    "to": 71999
+  },
+  "runtime": "2.1",
+  "target": "Internal"
+}
